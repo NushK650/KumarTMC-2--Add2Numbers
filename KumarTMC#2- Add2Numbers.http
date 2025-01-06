@@ -1,0 +1,6 @@
+@KumarTMC_2__Add2Numbers_HostAddress = http://localhost:5286
+
+GET {{KumarTMC_2__Add2Numbers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
